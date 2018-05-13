@@ -1,0 +1,27 @@
+{
+  "name": "product-tile-filters",
+  "version": "1.0.0",
+  "description": "Creates a filters page",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wpicode/product-tile-filters.git"
+  },
+  "keywords": [
+    "products",
+    "tiles",
+    "filters"
+  ],
+  "author": "wpicode",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wpicode/product-tile-filters/issues"
+  },
+  "homepage": "https://github.com/wpicode/product-tile-filters#readme"
+}
